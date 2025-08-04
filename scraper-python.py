@@ -1,7 +1,7 @@
 # scraper-python.py
 # To run this script, paste `python scraper-python.py` in the terminal
 
-import requests
+import requests 
 from bs4 import BeautifulSoup
 
 def scrape():
